@@ -1,11 +1,11 @@
 .content .MathJax {
-    font-size: 100%!important;
+    font-size: 150%!important;
     overflow-x: auto;
     overflow-y: hidden;
 }
 
 .content .katex {
-    font-size: 100%!important;
+    font-size: 150%!important;
     overflow-x: auto;
     overflow-y: hidden;
 }
