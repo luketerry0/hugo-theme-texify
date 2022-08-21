@@ -84,7 +84,7 @@ time {
 }
 
 #wrapper {
-    background-color: #fff5eb;
+    background-color: #ffffff;
     display: flex;
     flex-direction: column;
     font-family: 'Latin Modern Roman', 'Times New Roman', serif;
@@ -107,7 +107,7 @@ time {
 }
 
 ::-webkit-scrollbar {
-    background-color: #fff5eb;
+    background-color: #ffffff;
     height: 8px;
     width: 8px;
 }
